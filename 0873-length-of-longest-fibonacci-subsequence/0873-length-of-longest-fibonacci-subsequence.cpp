@@ -10,7 +10,7 @@ public:
         unordered_map<int,int>ump;
 
         for(int i = 0; i < n; i++){
-            ump[arr[i]] = i;
+            ump[arr[i]]++;
         }
 
         int maxLen = 0;
