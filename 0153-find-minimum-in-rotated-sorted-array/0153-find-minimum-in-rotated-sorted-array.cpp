@@ -1,21 +1,20 @@
-#include <vector>
-
 class Solution {
 public:
-    int findMin(std::vector<int>& nums) {
+    int findMin(vector<int>& nums) {
         int n = nums.size();
 
-        int lo = 0;
-        int hi = n - 1;
+        int lo = 0, hi = n - 1;
 
-        while (nums[lo] > nums[hi]) {
+        while(nums[lo] > nums[hi]){
             int mid = lo + (hi - lo) / 2;
 
-            if (nums[mid] > nums[lo]) {
+            if(nums[mid] > nums[lo]){
                 lo = mid + 1;
-            } else if (nums[mid] < nums[hi]) {
+            }
+            else if(nums[mid] < nums[hi]){
                 hi = mid;
-            } else {
+            }
+            else{
                 lo++;
             }
         }
