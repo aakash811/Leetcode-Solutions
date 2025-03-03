@@ -15,13 +15,7 @@ public:
                 result[hi] = nums[j];
                 hi--;
             }
-        }
-
-        for(int i = 0; i < n; i++){
-            cout<<result[i]<<" ";
-        }
-        cout<<endl;
-        
+        }        
         while (lo <= hi) {
             result[lo] = pivot;
             lo++;
