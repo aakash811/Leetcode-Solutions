@@ -17,10 +17,10 @@ public:
 
         return prime;
     }
+    vector<bool> vec = SieveOfEratosthenes(1e6);
     vector<int> closestPrimes(int left, int right) {
-        vector<bool> vec = SieveOfEratosthenes(right);
         vector<int> primes;
-        for(int i = left; i < vec.size(); i++)
+        for(int i = left; i < right; i++)
         {
             if(vec[i] == true){
                 primes.push_back(i);
