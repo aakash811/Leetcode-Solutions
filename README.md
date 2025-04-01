@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Sorting
@@ -45,4 +46,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
+## Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
