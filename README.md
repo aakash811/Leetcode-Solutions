@@ -14,6 +14,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -25,6 +26,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/aakash811/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
 ## Greedy
@@ -134,6 +136,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
