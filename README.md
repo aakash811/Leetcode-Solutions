@@ -67,6 +67,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/aakash811/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/aakash811/Leetcode-Solutions/tree/master/0135-candy) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
