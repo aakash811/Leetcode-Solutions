@@ -143,6 +143,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/aakash811/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -166,12 +167,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -183,6 +186,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
