@@ -20,18 +20,18 @@ public:
         TreeNode* cur = root;
 
         while(cur || !stk.empty()){
-            while(cur){
-                stk.push(cur);
-                cur = cur->left;
-            }
-            while(cur){
+            if(cur){
+                vec.push_back(cur->val);
                 stk.push(cur);
                 cur = cur->right;
             }
-            cur = stk.top();
-            stk.pop();
-            vec.push_back(cur->val);
+            else{
+               cur = stk.top();
+               stk.pop();
+               cur = cur->left;
+            }
         }
+        reverse(vec.begin(), vec.end());
         return vec;
     }
 };
