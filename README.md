@@ -107,6 +107,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -271,6 +272,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
@@ -283,12 +285,14 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Design
 |  |
 | ------- |
