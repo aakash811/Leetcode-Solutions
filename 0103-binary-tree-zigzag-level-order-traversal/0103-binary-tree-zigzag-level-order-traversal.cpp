@@ -18,16 +18,16 @@ public:
         vector<vector<int>>res;
         queue<TreeNode*>q;
         q.push(root);
-        int x = 0;
+        int idx = 0;
 
         while(!q.empty()){
             int sz = q.size();
-            vector<int>vec;
+            vector<int>ds;
             for(int i = 0; i < sz; i++){
                 TreeNode* node = q.front();
                 q.pop();
 
-                vec.push_back(node->val);
+                ds.push_back(node->val);
 
                 if(node->left){
                     q.push(node->left);
@@ -36,15 +36,14 @@ public:
                     q.push(node->right);
                 }
             }
-            if(x % 2 == 0){
-                res.push_back(vec);
+
+            if(idx % 2 == 1){
+                reverse(ds.begin(), ds.end());
             }
-            else{
-                reverse(vec.begin(), vec.end());
-                res.push_back(vec);
-            }
-            x++;
+            res.push_back(ds);
+            idx++;
         }
+
         return res;
     }
 };
