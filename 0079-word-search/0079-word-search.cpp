@@ -1,33 +1,37 @@
 class Solution {
 public:
-    bool solve(vector<vector<char>>& board, string word, int i, int j, int idx, int m, int n) {
+    bool solve(vector<vector<char>>& board, string word, int i, int j, int idx, int m, int n, vector<int>& dx, vector<int>& dy, vector<vector<bool>>& vis) {
         if(idx == word.size()){
             return true;
         }
 
-        if(i < 0 || j < 0 || i == m || j == n || board[i][j] != word[idx] or board[i][j] == '!'){
-            return false;
+        vis[i][j] = true;
+        for(int k = 0; k < 4; k++){
+            int dr = i + dx[k];
+            int dc = j + dy[k];
+
+            if(dr >= 0 && dr < m && dc >= 0 && dc < n && board[dr][dc] == word[idx] && !vis[dr][dc]){
+                if(solve(board, word, dr, dc, idx + 1, m, n, dx, dy, vis)) {
+                    return true; 
+                }
+            }
         }
 
-        char ch = board[i][j];
-        board[i][j] = '!';
-
-        bool top = solve(board, word, i - 1, j, idx + 1, m, n);
-        bool left = solve(board, word, i, j - 1, idx + 1, m, n);
-        bool down = solve(board, word, i + 1, j, idx + 1, m, n);
-        bool right = solve(board, word, i, j + 1, idx + 1, m, n);  
-
-        board[i][j] = ch;
-        return top || left || down || right;      
+        vis[i][j] = false;
+        return false;
     }
+    
     bool exist(vector<vector<char>>& board, string word) {
         int m = board.size();
         int n = board[0].size();
-        int idx = 0;
+        vector<int>dx = {-1, 0, 1, 0};
+        vector<int>dy = {0, -1, 0, 1};
+
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
-                if(board[i][j] == word[idx]){
-                    if(solve(board, word, i, j, idx, m, n)){
+                if(board[i][j] == word[0]){
+                    vector<vector<bool>>vis(m, vector<bool>(n, false));
+                    if(solve(board, word, i, j, 1, m, n, dx, dy, vis)){
                         return true;
                     }
                 }
