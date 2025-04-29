@@ -1,14 +1,14 @@
 class Solution {
 public:
-    bool solve(vector<vector<char>>& board, string word, int i, int j, int idx, int m, int n, vector<int>& dx, vector<int>& dy, vector<vector<bool>>& vis) {
+    bool solve(vector<vector<char>>& board, string word, int row, int col, int idx, int m, int n, vector<int>& dx, vector<int>& dy, vector<vector<bool>>& vis) {
         if(idx == word.size()){
             return true;
         }
 
-        vis[i][j] = true;
-        for(int k = 0; k < 4; k++){
-            int dr = i + dx[k];
-            int dc = j + dy[k];
+        vis[row][col] = true;
+        for(int i = 0; i < 4; i++){
+            int dr = row + dx[i];
+            int dc = col + dy[i];
 
             if(dr >= 0 && dr < m && dc >= 0 && dc < n && board[dr][dc] == word[idx] && !vis[dr][dc]){
                 if(solve(board, word, dr, dc, idx + 1, m, n, dx, dy, vis)) {
@@ -17,7 +17,7 @@ public:
             }
         }
 
-        vis[i][j] = false;
+        vis[row][col] = false;
         return false;
     }
     
