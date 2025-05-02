@@ -206,6 +206,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/aakash811/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -220,6 +221,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/aakash811/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -230,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0102-binary-tree-level-order-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/aakash811/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Binary Tree
@@ -244,6 +247,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0199-binary-tree-right-side-view](https://github.com/aakash811/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
