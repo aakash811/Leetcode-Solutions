@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/aakash811/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Greedy
@@ -160,6 +162,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0416-partition-equal-subset-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aakash811/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
