@@ -71,6 +71,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 ## Array
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash811/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
