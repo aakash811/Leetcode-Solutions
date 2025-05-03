@@ -35,7 +35,7 @@ public:
             s +="->";
             func(root->right,vec);
         }
-         s = s.substr(0, s.size()-val.size()-2);
+        s = s.substr(0, s.size()-val.size()-2);
     }
 
     vector<string> binaryTreePaths(TreeNode* root) {
