@@ -8,27 +8,22 @@
  * };
  */
 class Solution {
-public: 
+public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-
-        if(root == NULL || root == p || root == q)
-        {
-            return root; 
+        if(root == nullptr || root == p || root == q){
+            return root;
         }
 
         TreeNode* left = lowestCommonAncestor(root->left, p, q);
         TreeNode* right = lowestCommonAncestor(root->right, p, q);
 
-        if(left == NULL)
-        {
+        if(left == nullptr){
             return right;
         }
-        else if(right == NULL)
-        {
+        if(right == nullptr){
             return left;
         }
-        else if(left != NULL && right != NULL)
-        {
+        else if(left != nullptr && right != nullptr){
             return root;
         }
         return root;
