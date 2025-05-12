@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/aakash811/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
@@ -119,6 +120,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2249-count-the-hidden-sequences](https://github.com/aakash811/Leetcode-Solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -152,6 +154,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/aakash811/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
@@ -323,6 +326,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1656-count-good-triplets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Simulation
