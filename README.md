@@ -194,6 +194,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [2061-painting-a-grid-with-three-different-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
