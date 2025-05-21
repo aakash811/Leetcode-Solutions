@@ -197,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -354,6 +355,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -563,4 +565,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0210-course-schedule-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/aakash811/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
