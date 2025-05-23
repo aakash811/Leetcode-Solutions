@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Array
 |  |
@@ -158,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -181,6 +183,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
@@ -216,6 +219,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aakash811/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -278,6 +282,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -384,6 +389,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
 |  |
 | ------- |
