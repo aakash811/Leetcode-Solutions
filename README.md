@@ -68,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -158,6 +159,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
