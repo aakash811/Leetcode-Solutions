@@ -34,6 +34,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/aakash811/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -226,6 +227,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -491,6 +493,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/aakash811/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -568,6 +571,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0210-course-schedule-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/aakash811/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0820-find-eventual-safe-states](https://github.com/aakash811/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
@@ -590,8 +594,10 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0210-course-schedule-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/aakash811/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
