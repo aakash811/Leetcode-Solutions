@@ -124,6 +124,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0416-partition-equal-subset-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aakash811/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/aakash811/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -224,6 +225,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/aakash811/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
@@ -407,6 +409,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
