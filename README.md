@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/aakash811/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
@@ -353,6 +354,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0820-find-eventual-safe-states](https://github.com/aakash811/Leetcode-Solutions/tree/master/0820-find-eventual-safe-states) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/aakash811/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -529,6 +531,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/aakash811/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
+| [0945-snakes-and-ladders](https://github.com/aakash811/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
