@@ -33,13 +33,13 @@ public:
             }
         }
 
-        for(auto it : dist){
-            for(auto jt : it){
-                cout<<jt<<" ";
-            }
-            cout<<endl;
-        }
-        cout<<endl;
+        // for(auto it : dist){
+        //     for(auto jt : it){
+        //         cout<<jt<<" ";
+        //     }
+        //     cout<<endl;
+        // }
+        // cout<<endl;
         return dist[n - 1][m - 1] != 1e9 ? dist[n - 1][m - 1] : 0;        
     }
 };
