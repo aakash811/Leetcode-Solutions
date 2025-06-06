@@ -17,7 +17,6 @@ public:
             }
             prev = curr;
         }
-        cout<<prev[m]<<endl;
         return n + m - (2 * prev[m]);
     }
 };
