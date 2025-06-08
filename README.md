@@ -347,6 +347,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0386-lexicographical-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aakash811/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -654,4 +655,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
