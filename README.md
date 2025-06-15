@@ -104,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -436,6 +437,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aakash811/Leetcode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/aakash811/Leetcode-Solutions/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2050-count-good-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
