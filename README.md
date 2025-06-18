@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -197,6 +198,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -222,6 +224,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
