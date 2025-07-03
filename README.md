@@ -470,6 +470,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3201-distribute-candies-among-children-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/aakash811/Leetcode-Solutions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -488,6 +489,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -514,6 +516,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
@@ -650,6 +653,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2050-count-good-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
