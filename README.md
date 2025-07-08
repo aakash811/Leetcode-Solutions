@@ -190,6 +190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
@@ -244,6 +245,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -293,6 +295,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/aakash811/Leetcode-Solutions/tree/master/2262-solving-questions-with-brainpower) |
@@ -575,6 +578,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
