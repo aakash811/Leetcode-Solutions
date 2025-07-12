@@ -174,6 +174,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/aakash811/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -308,6 +309,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0747-min-cost-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
