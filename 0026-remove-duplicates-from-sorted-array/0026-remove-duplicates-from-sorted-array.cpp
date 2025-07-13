@@ -6,8 +6,12 @@ public:
         for(auto it : nums){
             st.insert(it);
         }
-        vector<int>v(st.begin(), st.end());
-        nums= v;
+        
+        int i = 0;
+        for(auto it : st){
+            nums[i++] = it;
+        }
+        
         return st.size();
     }
 };
