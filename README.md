@@ -65,6 +65,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## String
 |  |
@@ -124,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -216,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2479-meeting-rooms-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -263,6 +266,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2479-meeting-rooms-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
