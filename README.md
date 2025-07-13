@@ -209,6 +209,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1656-count-good-triplets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/aakash811/Leetcode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
