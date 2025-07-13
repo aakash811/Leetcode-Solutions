@@ -59,6 +59,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/aakash811/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -163,6 +164,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0213-house-robber-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
