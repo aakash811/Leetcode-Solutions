@@ -1,34 +1,37 @@
 class Solution {
 public:
-    string solve(string s, int l, int r){
-        while (l >= 0 && r < s.size() && s[l] == s[r]){
-            l--;
-            r++;
+bool isPalin(string &s){
+    int i=0;
+    int j=s.length()-1;
+    
+    while(i<j){
+        if(s[i]!=s[j]){
+            return false;
         }
-        return s.substr(l + 1, r - l - 1);   
-    }
+        i++;
+        j--;
+    } 
+    return true;
+}
+
+   
 
     string longestPalindrome(string s) {
-        int n = s.size();
-        int maxLen = 0;
-
-        string res = "";
-        for(int i = 1; i < n - 1; i++){
-            string x = solve(s, i, i);
-            if(maxLen < x.size()){
-                maxLen = x.size();
-                res = x;
+        int n=s.length();
+        string maxi="";
+        
+        for(int i=0;i<n;i++){
+            string temp="";
+            for(int j=i;j<n;j++){
+                temp+=s[j];
+                if(isPalin(temp)){
+                    if(temp.length()>maxi.length()){
+                        maxi=temp;
+                    }
+                }
             }
         }
-
-        for(int i = 1; i < n - 2; i++){
-            string y = solve(s, i, i + 1);
-            if(maxLen < y.size()){
-                maxLen = y.size();
-                res = y;
-            }
-        }
-
-        return res;
+        
+        return maxi;
     }
 };
