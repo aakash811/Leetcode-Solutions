@@ -97,6 +97,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1078-remove-outermost-parentheses](https://github.com/aakash811/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -390,6 +391,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0937-online-stock-span](https://github.com/aakash811/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1078-remove-outermost-parentheses](https://github.com/aakash811/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
