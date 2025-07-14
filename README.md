@@ -170,6 +170,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0075-sort-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0118-pascals-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash811/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/aakash811/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
@@ -326,6 +327,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0055-jump-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/aakash811/Leetcode-Solutions/tree/master/0072-edit-distance) |
+| [0118-pascals-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash811/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
