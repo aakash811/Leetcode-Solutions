@@ -84,6 +84,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/aakash811/Leetcode-Solutions/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/aakash811/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
@@ -162,6 +163,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -833,6 +835,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aakash811/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
