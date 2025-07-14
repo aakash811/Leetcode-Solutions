@@ -64,6 +64,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakash811/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -88,6 +89,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/aakash811/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/aakash811/Leetcode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
@@ -350,6 +352,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/aakash811/Leetcode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
