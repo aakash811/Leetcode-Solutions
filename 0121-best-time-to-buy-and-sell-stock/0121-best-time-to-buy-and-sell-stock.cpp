@@ -6,10 +6,12 @@ public:
         int pro = 0;
 
         for(int i = 1; i < n; i++){
-            if(buy > prices[i]){
+            if(prices[i] < buy){
                 buy = prices[i];
             }
-            pro = max(pro, prices[i] - buy);
+
+            int x = prices[i] - buy;
+            pro = max(pro, x);
         }
 
         return pro;
