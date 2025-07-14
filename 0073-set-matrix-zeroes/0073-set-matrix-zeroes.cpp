@@ -3,21 +3,18 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-
-        bool rowZ = false;
-        bool colZ = false;
-
-        for(int i = 0; i < n; i++){
-            if(matrix[i][0] == 0){
-                colZ = true;
-                break;
-            }
-        }
+        
+        bool rowZero = false, colZero = false;
 
         for(int i = 0; i < m; i++){
             if(matrix[0][i] == 0){
-                rowZ = true;
-                break;
+                rowZero = true;
+            }
+        }
+
+        for(int i = 0; i < n; i++){
+            if(matrix[i][0] == 0){
+                colZero = true;
             }
         }
 
@@ -46,13 +43,13 @@ public:
             }
         }
 
-        if(rowZ){
+        if(rowZero){
             for(int i = 0; i < m; i++){
                 matrix[0][i] = 0;
             }
         }
 
-        if(colZ){
+        if(colZero){
             for(int i = 0; i < n; i++){
                 matrix[i][0] = 0;
             }
