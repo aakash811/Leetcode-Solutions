@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0003-longest-substring-without-repeating-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/aakash811/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0169-majority-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/aakash811/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -166,6 +167,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/aakash811/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/aakash811/Leetcode-Solutions/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aakash811/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -265,6 +267,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0047-permutations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0056-merge-intervals](https://github.com/aakash811/Leetcode-Solutions/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -659,6 +662,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0621-task-scheduler](https://github.com/aakash811/Leetcode-Solutions/tree/master/0621-task-scheduler) |
@@ -675,6 +679,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
