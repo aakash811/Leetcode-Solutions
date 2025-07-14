@@ -1,43 +1,45 @@
-#include <iostream>
-#include <sstream>
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     string reverseWords(string s) {
-        vector<string> words;
-        string word, result;
-        stringstream ss(s);
+        reverse(s.begin(), s.end());
         
-        while (ss >> word) {
-            words.push_back(word);
+        int x = 0;
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] != ' '){
+                s.erase(0, i);
+                break;
+            }
         }
+        cout<<s<<endl;
         
-        for (int i = words.size() - 1; i >= 0; --i) {
-            result += words[i];
-            if (i > 0) result += " ";
+        
+        int y = 0;
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == ' ' && s[i + 1] == ' '){
+                s.erase(i, 1);
+                i--;
+            }
         }
+        cout<<s<<endl;
         
-        return result;
-    }
-
-    vector<int> productExceptSelf(vector<int>& nums) {
-        int n = nums.size();
-        vector<int> answer(n, 1);
-        
-        int leftProduct = 1;
-        for (int i = 0; i < n; ++i) {
-            answer[i] = leftProduct;
-            leftProduct *= nums[i];
+        for(int i = s.size() - 1; i >= 0; i--){
+            if(s[i] != ' '){
+                s.erase(i + 1, s.length() - i + 1);
+                break;
+            }
         }
+        cout<<s<<endl;
         
-        int rightProduct = 1;
-        for (int i = n - 1; i >= 0; --i) {
-            answer[i] *= rightProduct;
-            rightProduct *= nums[i];
+        int idx = 0;
+        for(int i = 0; i < s.size(); i++){
+            if(s[i] == ' ' ){
+                reverse(s.begin() + idx, s.begin() + i);
+                idx = i + 1;
+            }
+            if(i==s.size()-1){
+                 reverse(s.begin() + idx, s.begin() + i+1);
+            }
         }
-        
-        return answer;
+        return s;
     }
 };
