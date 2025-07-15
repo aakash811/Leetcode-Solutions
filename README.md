@@ -232,6 +232,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -692,6 +693,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0792-binary-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
