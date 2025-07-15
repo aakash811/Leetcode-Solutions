@@ -1,47 +1,30 @@
 class Solution {
 public:
-    int upbinarySearch(vector<int> &nums, int target){
-        int lo = 0, hi = nums.size() - 1;
-
-        while(lo <= hi){
-            int mid = lo + (hi - lo) / 2; 
-            if(nums[mid] > target){
-                hi = mid - 1;
-            }
-            if(nums[mid] < target){
-                lo = mid + 1;
-            }
-            if(nums[mid] == target){
-                return mid;
-            }
-        }
-        return -1;
-    }
-
-    int lobinarySearch(vector<int> &nums, int target){
-        int lo = 0, hi = nums.size() - 1;
-
-        while(lo <= hi){
-            int mid = lo + (hi - lo + 1) / 2; 
-            if(nums[mid] > target){
-                hi = mid - 1;
-            }
-            if(nums[mid] < target){
-                lo = mid + 1;
-            }
-            if(nums[mid] == target){
-                return mid;
-            }
-        }
-        return -1;
-    }
     vector<int> searchRange(vector<int>& nums, int target) {
         int n = nums.size();
+        int lo = 0;
+        int hi = n - 1;
+        
+        while(lo <= hi){
+            int mid = lo + (hi - lo) / 2;
+            if(nums[mid] == target){
+                int lft = mid, rght = mid;
+                while(lft >= 1 && nums[lft] == nums[lft - 1]){
+                    lft--;
+                }
+                while(rght < n - 1 && nums[rght] == nums[rght + 1]){
+                    rght++;
+                }
+                return {lft, rght};
+            }
+            else if(nums[mid] < target){
+                lo = mid + 1;
+            }
+            else{
+                hi = mid - 1;
+            }
+        }
 
-        int upRange = upbinarySearch(nums, target);
-        int lowRange = lobinarySearch(nums, target);
-        int loLim = min(lowRange, upRange);
-        int upLim = max(lowRange, upRange);
-        return {loLim, upLim};
+        return {-1, -1};
     }
 };
