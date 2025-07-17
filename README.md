@@ -251,6 +251,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aakash811/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -715,6 +716,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0792-binary-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/aakash811/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/aakash811/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/aakash811/Leetcode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
