@@ -2,11 +2,11 @@ class Solution {
 public:
     int search(vector<int>& nums, int target) {
         int n = nums.size();
-        int lo = 0;
-        int hi = n - 1;
-        
+        int lo = 0, hi = n - 1;
+
         while(lo <= hi){
             int mid = lo + (hi - lo) / 2;
+
             if(nums[mid] == target){
                 return mid;
             }
@@ -17,9 +17,8 @@ public:
                 else{
                     lo = mid + 1;
                 }
-            }
-            else{
-                if(nums[mid] < target && nums[hi] >= target){
+            }else{
+                if(nums[hi] >= target && nums[mid] < target){
                     lo = mid + 1;
                 }
                 else{
