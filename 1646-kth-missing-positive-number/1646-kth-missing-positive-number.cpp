@@ -14,6 +14,6 @@ public:
                 hi = mid - 1;
             }
         }
-        return k + hi + 1;
+        return lo + k;
     }
 };
