@@ -14,16 +14,16 @@ public:
                 continue;
             }
             else if(nums[lo] <= nums[mid]){
-                if(nums[lo] <= target && nums[mid] >= target){
-                    hi = mid;
+                if(nums[lo] <= target && nums[mid] > target){
+                    hi = mid - 1;
                 }
                 else{
                     lo = mid + 1;
                 }
             }
             else{
-                if(nums[hi] >= target && nums[mid] <= target){
-                    lo = mid;
+                if(nums[hi] >= target && nums[mid] < target){
+                    lo = mid + 1;
                 }
                 else{
                     hi = mid - 1;
