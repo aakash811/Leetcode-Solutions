@@ -47,6 +47,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aakash811/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2479-meeting-rooms-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
@@ -120,6 +121,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/aakash811/Leetcode-Solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/aakash811/Leetcode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -276,6 +278,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/aakash811/Leetcode-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -908,8 +911,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0386-lexicographical-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/aakash811/Leetcode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aakash811/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## String Matching
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0812-rotate-string) |
+## Hash Function
+|  |
+| ------- |
+| [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
