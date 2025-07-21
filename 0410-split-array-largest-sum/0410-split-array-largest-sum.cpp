@@ -1,19 +1,20 @@
 class Solution {
 public:
-    int solve(vector<int>& nums, int mid, int k){
+    int solve(vector<int>& vec, int mid){
+        int n = vec.size();
         int cnt = 1;
         int sum = 0;
-        int n = nums.size();
 
         for(int i = 0; i < n; i++){
-            if(sum + nums[i] <= mid){
-                sum += nums[i];
+            if(sum + vec[i] <= mid){
+                sum += vec[i];
             }
             else{
                 cnt++;
-                sum = nums[i];
+                sum = vec[i];
             }
         }
+
         return cnt;
     }
 
@@ -24,14 +25,13 @@ public:
 
         while(lo <= hi){
             int mid = lo + (hi - lo) / 2;
-
-            if(solve(nums, mid, k) > k){
+            if(solve(nums, mid) > k){
                 lo = mid + 1;
             }
             else{
                 hi = mid - 1;
             }
-        } 
+        }
         return lo;
     }
 };
