@@ -820,6 +820,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aakash811/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0355-design-twitter](https://github.com/aakash811/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search Tree
@@ -843,6 +844,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/aakash811/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
