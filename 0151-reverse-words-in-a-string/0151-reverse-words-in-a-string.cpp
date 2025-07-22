@@ -10,7 +10,7 @@ public:
             }
         }
 
-        for(int i = 0; i < s.size(); i++){
+        for(int i = 0; i < s.size() - 1; i++){
             if(s[i] == ' ' && s[i + 1] == ' '){
                 s.erase(i, 1);
                 i--;
@@ -22,7 +22,7 @@ public:
                 s.erase(i + 1, s.size() - i + 1);
                 break;
             }
-        }        
+        }
 
         int idx = 0;
         for(int i = 0; i < s.size(); i++){
