@@ -91,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aakash811/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -842,6 +843,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0328-odd-even-linked-list](https://github.com/aakash811/Leetcode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/aakash811/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/aakash811/Leetcode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
