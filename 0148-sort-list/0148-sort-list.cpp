@@ -9,31 +9,31 @@
  * };
  */
 class Solution {
-public: 
-    ListNode* merge(ListNode* lft, ListNode* rght){
+public:
+    ListNode* merge(ListNode* l1, ListNode* l2){
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        while(lft && rght){
-            if(lft->val < rght->val){
-                tail->next = lft;
-                lft = lft->next;
+        while(l1 && l2){
+            if(l1->val < l2->val){
+                tail->next = l1;
+                l1 = l1->next;
             }
             else{
-                tail->next=rght;
-                rght=rght->next;
+                tail->next = l2;
+                l2 = l2->next;
             }
             tail = tail->next;
         }
 
-        if(lft){
-            tail->next = lft;
+        if(l1){
+            tail->next = l1;
         }
         else{
-            tail->next = rght;
+            tail->next = l2;
         }
-        
-        return dummy.next; 
+
+        return dummy.next;
     }
 
     ListNode* getMid(ListNode* head){
@@ -44,6 +44,7 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
+
         return slow;
     }
 
