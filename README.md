@@ -114,6 +114,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/aakash811/Leetcode-Solutions/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/aakash811/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -416,6 +417,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aakash811/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/aakash811/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/aakash811/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
@@ -658,6 +660,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0047-permutations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/aakash811/Leetcode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
