@@ -11,25 +11,25 @@ public:
         {'t', 'u', 'v'}, 
         {'w', 'x', 'y', 'z'}
     };
-
-    void solve(string digits, vector<string>& ds, int i, string str){
-        if(i == digits.size()){
-            ds.push_back(str);
+    void solve(string digits, vector<string>& res, int idx, string str){
+        if(idx == digits.size()){
+            res.push_back(str);
             return;
         }
 
-        for(auto it : vec[digits[i] - '0']){
+        for(auto it : vec[digits[idx] - '0']){
             str.push_back(it);
-            solve(digits, ds, i + 1, str);
+            solve(digits, res, idx + 1, str);
             str.pop_back();
         }
     }
+
     vector<string> letterCombinations(string digits) {
-        vector<string>ds;
-        solve(digits, ds, 0, "");
-        if(ds[0] == ""){
+        vector<string>res;
+        solve(digits, res, 0, "");
+        if(res[0] == ""){
             return {};
         }
-        return ds;
+        return res;  
     }
 };
