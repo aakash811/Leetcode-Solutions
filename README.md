@@ -218,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0057-insert-interval](https://github.com/aakash811/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aakash811/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -650,6 +651,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0046-permutations](https://github.com/aakash811/Leetcode-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0047-permutations-ii) |
+| [0078-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
@@ -658,6 +660,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0078-subsets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
