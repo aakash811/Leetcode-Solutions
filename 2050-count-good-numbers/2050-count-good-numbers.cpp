@@ -1,9 +1,9 @@
 class Solution {
 public:
-    long long int MOD = 1e9 + 7;
-    long long solve(long long x, long long n){
+    const int MOD = 1e9 + 7;
+    int solve(long long x, long long n){
         if(n == 0){
-            return 1;
+            return 1; 
         }
 
         if(n % 2 != 0){
@@ -16,8 +16,8 @@ public:
 
     int countGoodNumbers(long long n) {
         long long odds = solve(4, n / 2);
-        long long evens = solve(5, n / 2 + n % 2);
+        long long even = solve(5, n / 2 + n % 2);
 
-        return (odds * evens) % MOD;
+        return (odds * even) % MOD;
     }
 };
