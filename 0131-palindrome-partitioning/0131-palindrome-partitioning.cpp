@@ -11,7 +11,7 @@ public:
         return true;
     }
 
-    void solve(string s, vector<string>& ds, vector<vector<string>>& res, int idx){
+    void solve(vector<vector<string>>& res, vector<string>& ds, string s, int idx){
         if(idx == s.size()){
             res.push_back(ds);
             return;
@@ -20,7 +20,7 @@ public:
         for(int i = idx; i < s.size(); i++){
             if(isPalindrome(s, idx, i)){
                 ds.push_back(s.substr(idx, i - idx + 1));
-                solve(s, ds, res, i + 1);
+                solve(res, ds, s, i + 1);
                 ds.pop_back();
             }
         }
@@ -30,7 +30,7 @@ public:
         vector<vector<string>>res;
         vector<string>ds;
 
-        solve(s, ds, res, 0);
+        solve(res, ds, s, 0);
         return res;
     }
 };
