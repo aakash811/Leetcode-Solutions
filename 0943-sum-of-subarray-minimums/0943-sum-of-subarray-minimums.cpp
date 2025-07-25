@@ -1,12 +1,11 @@
 class Solution {
 public:
-    const int MOD = 1000000007;
+    const int MOD = 1e9 + 7;
     int sumSubarrayMins(vector<int>& arr) {
         int n = arr.size();
         stack<int>stk1;
         stack<int>stk2;
-        vector<int>lft(n);
-        vector<int>rght(n);
+        vector<int>lft(n), rght(n);
 
         for(int i = 0; i < n; i++){
             while(!stk1.empty() && arr[stk1.top()] > arr[i]){
@@ -26,13 +25,12 @@ public:
 
         long long res = 0;
         for(int i = 0; i < n; i++){
-            long long lftSum = i - lft[i];
-            long long rghtSum = rght[i] - i;
+            int lftSum = i - lft[i];
+            int rghtSum = rght[i] - i;
 
             long long sum = (arr[i] * lftSum * rghtSum) % MOD;
             res = (res + sum) % MOD;
         }
-
         return res;
     }
 };
