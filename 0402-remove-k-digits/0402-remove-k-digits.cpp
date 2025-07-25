@@ -3,9 +3,10 @@ public:
     string removeKdigits(string num, int k) {
         int n = num.size();
         stack<int>stk;
+        string res = "";
 
         for(int i = 0; i < n; i++){
-            while(k > 0 && !stk.empty() && stk.top() > num[i]){
+            while(!stk.empty() && k > 0 && stk.top() > num[i]){
                 k--;
                 stk.pop();
             }
@@ -23,7 +24,6 @@ public:
             }
         }
 
-        string res = "";
         while(!stk.empty()){
             res += stk.top();
             stk.pop();
