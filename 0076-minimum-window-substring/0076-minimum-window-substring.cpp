@@ -1,14 +1,13 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        if(s.empty() || t.empty() || s.size() < t.size()){
+        int n = s.size(), m = t.size();
+        if(n == 0 || m == 0 || n < m){
             return "";
         }
-
-        int n = s.size(), m = t.size();
-        int lft = 0, rght = 0;
-        int cnt = m, minLen = INT_MAX;
-        int st = 0;
+        
+        int lft = 0, rght = 0, cnt = m, st = 0;
+        int minLen = INT_MAX;
         vector<int>map(128, 0);
 
         for(int i = 0; i < m; i++){
@@ -16,20 +15,21 @@ public:
         }
 
         while(rght < n){
-            if(map[s[rght++]]-- > 0){
+            if (map[s[rght]]-- > 0) {
                 cnt--;
             }
 
-            while(cnt == 0){
-                if(rght - lft < minLen){
+            while (cnt == 0) {
+                if (rght - lft + 1 < minLen) {
+                    minLen = rght - lft + 1;
                     st = lft;
-                    minLen = rght - lft;
                 }
-
-                if(map[s[lft++]]++ == 0){
+                if (map[s[lft]]++ == 0) {
                     cnt++;
                 }
+                lft++;
             }
+            rght++;
         }
 
         return minLen == INT_MAX ? "" : s.substr(st, minLen);
