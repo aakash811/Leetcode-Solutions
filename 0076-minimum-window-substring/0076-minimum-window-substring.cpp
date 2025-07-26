@@ -15,16 +15,17 @@ public:
         }
 
         while(rght < n){
-            if (map[s[rght]]-- > 0) {
+            if(map[s[rght]]-- > 0){
                 cnt--;
             }
 
-            while (cnt == 0) {
-                if (rght - lft + 1 < minLen) {
-                    minLen = rght - lft + 1;
+            while(cnt == 0){
+                if(rght - lft + 1 < minLen){
                     st = lft;
+                    minLen = rght - lft + 1;
                 }
-                if (map[s[lft]]++ == 0) {
+
+                if(map[s[lft]]++ == 0){
                     cnt++;
                 }
                 lft++;
