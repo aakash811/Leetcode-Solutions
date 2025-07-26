@@ -1,11 +1,11 @@
 class Solution {
 public:
     int solve(vector<int>& nums, int goal){
-        int n = nums.size(); 
+        int n = nums.size();
         int lft = 0, rght = 0;
         int cnt = 0;
         int sum = 0;
-        
+
         while(rght < n){
             sum += nums[rght];
             while(sum > goal && lft <= rght){
