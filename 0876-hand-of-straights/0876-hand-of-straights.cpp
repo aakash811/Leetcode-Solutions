@@ -1,37 +1,39 @@
 class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
-        if (hand.size() % groupSize != 0) return false;
-
-        unordered_map<int, int> freq;
-        for (int card : hand) {
-            freq[card]++;
+        int n = hand.size();
+        if(n % groupSize != 0){
+            return false;
         }
 
-        priority_queue<int, vector<int>, greater<int>> minHeap;
-        for (auto& [num, count] : freq) {
-            minHeap.push(num);
+        unordered_map<int, int>ump;
+        for(int i = 0; i < n; i++){
+           ump[hand[i]]++;
         }
 
-        while (!minHeap.empty()) {
-            int first = minHeap.top(); 
+        priority_queue<int, vector<int>, greater<int>>pq;
+        for(auto it : ump){
+            pq.push(it.first);
+        }
 
-            for (int i = 0; i < groupSize; ++i) {
+        while(!pq.empty()){
+            int first = pq.top();
+
+            for(int i = 0; i < groupSize; i++){
                 int curr = first + i;
-
-                if (freq[curr] == 0) return false;
-
-                freq[curr]--;
-                if (freq[curr] == 0 && curr == minHeap.top()) {
-                    minHeap.pop();
+                if(ump[curr] == 0){
+                    return false;
+                }
+                ump[curr]--;
+                if(ump[curr] == 0 && curr == pq.top()){
+                    pq.pop();
                 }
             }
 
-            while (!minHeap.empty() && freq[minHeap.top()] == 0) {
-                minHeap.pop();
+            while(!pq.empty() && ump[pq.top()] == 0){
+                pq.pop();
             }
         }
-
         return true;
     }
 };
