@@ -2,16 +2,16 @@ class Solution {
 public:
     bool isNStraightHand(vector<int>& hand, int groupSize) {
         int n = hand.size();
+        unordered_map<int, int>ump;
+        priority_queue<int, vector<int>, greater<int>>pq;
+
         if(n % groupSize != 0){
             return false;
         }
 
-        unordered_map<int, int>ump;
         for(int i = 0; i < n; i++){
-           ump[hand[i]]++;
+            ump[hand[i]]++;
         }
-
-        priority_queue<int, vector<int>, greater<int>>pq;
         for(auto it : ump){
             pq.push(it.first);
         }
@@ -25,7 +25,8 @@ public:
                     return false;
                 }
                 ump[curr]--;
-                if(ump[curr] == 0 && curr == pq.top()){
+                
+                if(ump[curr] == 0 && pq.top() == curr){
                     pq.pop();
                 }
             }
