@@ -4,9 +4,8 @@ public:
     int lim;
     KthLargest(int k, vector<int>& nums) {
         lim = k;
-        int x = nums.size() - k;
-
-        for(int i = 0; i < nums.size(); i++){
+        int n = nums.size();
+        for(int i = 0; i < n; i++){
             pq.push(nums[i]);
             if(pq.size() > k){
                 pq.pop();
