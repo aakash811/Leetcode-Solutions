@@ -1,25 +1,19 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-     for(int i = 1; i < nums.size(); i++)
-      {
-        nums[i] = max(nums[i] + i, nums[i-1]);
-      }
+        int n = nums.size();
 
-    //   for(int i = 0; i < nums.size(); i++){
-    //     cout<<nums[i]<<" ";
-    //   }
-    //   cout<<endl;
-      int idx = 0;
-      int ans = 0;
+        for(int i = 1; i < n; i++){
+            nums[i] = max(nums[i] + i, nums[i - 1]);  
+        }
 
-      while(idx < nums.size() - 1)
-      {
-        ans++;
-        // cout<<nums[idx]<<endl;
-        idx = nums[idx];
-      }
+        int idx = 0;
+        int cnt = 0;
 
-      return ans;
+        while(idx < n - 1){
+            cnt++;
+            idx = nums[idx];
+        }
+        return cnt;
     }
 };
