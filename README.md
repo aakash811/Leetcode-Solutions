@@ -330,6 +330,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -692,6 +693,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -751,6 +753,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1813-maximum-erasure-value](https://github.com/aakash811/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -806,6 +809,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
