@@ -15,24 +15,24 @@ public:
         if(!root){
             return {};
         }
-        
-        vector<int>vec;
+
         stack<TreeNode*>stk;
+        vector<int>res;
         stk.push(root);
 
         while(!stk.empty()){
             TreeNode* node = stk.top();
             stk.pop();
-            vec.push_back(node -> val);
 
-            if(node -> right){
-                stk.push(node -> right);
+            res.push_back(node->val);
+
+            if(node->right){
+                stk.push(node->right);
             }
-            if(node -> left){
-                stk.push(node -> left);
+            if(node->left){
+                stk.push(node->left);
             }
         }
-
-        return vec;
+        return res;
     }
 };
