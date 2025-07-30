@@ -15,19 +15,20 @@ public:
         if(!root){
             return {};
         }
+        
         vector<vector<int>>res;
         queue<TreeNode*>q;
-        q.push(root);
-        int idx = 0;
 
+        q.push(root);
+        int k = 0;
         while(!q.empty()){
             int sz = q.size();
-            vector<int>ds;
+            vector<int>temp;
             for(int i = 0; i < sz; i++){
                 TreeNode* node = q.front();
                 q.pop();
 
-                ds.push_back(node->val);
+                temp.push_back(node->val);
 
                 if(node->left){
                     q.push(node->left);
@@ -36,14 +37,12 @@ public:
                     q.push(node->right);
                 }
             }
-
-            if(idx % 2 == 1){
-                reverse(ds.begin(), ds.end());
+            if(k % 2 != 0){
+                reverse(temp.begin(), temp.end());
             }
-            res.push_back(ds);
-            idx++;
+            res.push_back(temp);
+            k++;
         }
-
         return res;
     }
 };
