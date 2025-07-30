@@ -12,7 +12,7 @@
 class Solution {
 public:
     TreeNode* solve(TreeNode* root, int key){
-        while(root->left != nullptr){
+        while(root->left){
             root = root->left;
         }
         return root;
@@ -20,7 +20,7 @@ public:
 
     TreeNode* deleteNode(TreeNode* root, int key) {
         if(!root){
-            return nullptr;
+            return NULL;
         }
 
         if(root->val < key){
@@ -30,24 +30,24 @@ public:
             root->left = deleteNode(root->left, key);
         }
         else{
-            if(root->right == nullptr && root->left == nullptr){
+            if(root->left == NULL && root->right == NULL){
                 delete root;
-                return nullptr;
+                return NULL;
             }
-            else if(root->left == nullptr){
+            else if(root->left == NULL){
                 TreeNode* temp = root->right;
                 delete root;
                 return temp;
             }
-            else if(root->right == nullptr){
+            else if(root->right == NULL){
                 TreeNode* temp = root->left;
                 delete root;
                 return temp;
             }
             else{
-                TreeNode* mini = solve(root -> right, key);
-                root -> val = mini-> val;
-                root -> right = deleteNode(root->right, mini->val);
+                TreeNode* mini = solve(root->right, key);
+                root->val = mini->val;
+                root->right = deleteNode(root->right, mini->val);
             }
         }
         return root;
