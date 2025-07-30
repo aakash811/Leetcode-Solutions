@@ -15,14 +15,14 @@ public:
         if(!p && !q){
             return true;
         }
-        
+
         if(!p || !q || p->val != q->val){
             return false;
         }
-        
+
         bool lft = isSameTree(p->left, q->left);
         bool rght = isSameTree(p->right, q->right);
-        
+
         return lft && rght;
     }
 };
