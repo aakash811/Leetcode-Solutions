@@ -331,6 +331,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2479-meeting-rooms-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aakash811/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -694,6 +695,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/aakash811/Leetcode-Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aakash811/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Combinatorics
@@ -1016,4 +1018,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Brainteaser
+|  |
+| ------- |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/aakash811/Leetcode-Solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 <!---LeetCode Topics End-->
