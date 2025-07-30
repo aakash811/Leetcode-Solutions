@@ -16,8 +16,8 @@ public:
             return 0;
         }
 
-        int lMax = solve(root->left, maxi, path + root->val);
-        int rMax = solve(root->right, maxi, path + root->val);
+        int lMax = max(0, solve(root->left, maxi, path + root->val));
+        int rMax = max(0, solve(root->right, maxi, path + root->val));
         maxi = max(maxi, lMax + rMax + root->val);
 
         return max(lMax, rMax) + root->val;
