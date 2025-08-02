@@ -12,21 +12,23 @@ public:
 
         return revG;
     }
+    
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
         int n = graph.size();
-        vector<int>indeg(n, 0);
+        vector<int>inDegree(n);
         vector<vector<int>>revG = revGraph(graph);
 
         for(int i = 0; i < n; i++){
             for(auto it : revG[i]){
-                indeg[it]++;
+                inDegree[it]++;
             }
         }
 
-        queue<int>q;
         vector<int>topo;
+        queue<int>q;
+
         for(int i = 0; i < n; i++){
-            if(indeg[i] == 0){
+            if(inDegree[i] == 0){
                 q.push(i);
             }
         }
@@ -37,13 +39,12 @@ public:
             topo.push_back(node);
 
             for(auto it : revG[node]){
-                indeg[it]--;
-                if(indeg[it] == 0){
+                inDegree[it]--;
+                if(inDegree[it] == 0){
                     q.push(it);
                 }
             }
         }
-        
         sort(topo.begin(), topo.end());
         return topo;
     }
