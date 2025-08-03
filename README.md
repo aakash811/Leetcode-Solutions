@@ -1055,6 +1055,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/aakash811/Leetcode-Solutions/tree/master/0197-rising-temperature) |
 | [0584-find-customer-referee](https://github.com/aakash811/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakash811/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
