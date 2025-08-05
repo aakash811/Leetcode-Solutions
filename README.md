@@ -46,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0940-fruit-into-baskets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -512,6 +513,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/aakash811/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -812,6 +814,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0295-find-median-from-data-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/aakash811/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/aakash811/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Data Stream
@@ -991,6 +994,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 ## Number Theory
 |  |
