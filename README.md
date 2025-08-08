@@ -475,6 +475,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0678-valid-parenthesis-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
+| [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -683,6 +684,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0231-power-of-two](https://github.com/aakash811/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
+| [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -1083,4 +1085,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1153-product-sales-analysis-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/1153-product-sales-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakash811/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aakash811/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
