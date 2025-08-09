@@ -5,17 +5,29 @@ public:
         if(sum % 2 != 0){
             return false;
         }
+        int target = sum / 2;
 
-        int req = sum / 2;
-        vector<int>dp(req + 1, false);
+        vector<int>dp(target + 1, false);
         dp[0] = true;
 
-        for(int i = 0; i < nums.size(); i++){
-            for(int j = req; j >= nums[i]; j--){
-                dp[j] = dp[j] || dp[j - nums[i]];
+        if(nums[0] <= target){
+            dp[nums[0]] = true;
+        }
+        
+        for(int i = 1; i < nums.size(); i++){
+            vector<int>prev(target + 1, false);
+            prev[0] = true;
+            for(int j = 1; j <= target; j++){
+                bool notTaken = dp[j];
+                bool taken = false;
+                if(nums[i] <= j){
+                    taken = dp[j - nums[i]];
+                }
+                prev[j] = notTaken || taken;
             }
+            dp = prev;
         }
 
-        return dp[req];
+        return dp[target];
     }
 };
