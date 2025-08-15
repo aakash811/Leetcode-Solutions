@@ -3,28 +3,31 @@ public:
     int majorityElement(vector<int>& nums) {
         int n = nums.size();
         int cnt = 0;
-        int el;
+        int majorElement;
 
         for(int i = 0; i < n; i++){
             if(cnt == 0){
+                majorElement = nums[i];
                 cnt = 1;
-                el = nums[i];
             }
-            else if(nums[i] == el){
+            else if(nums[i] == majorElement){
                 cnt++;
             }
-            else{
+            else if(nums[i] != majorElement){
                 cnt--;
             }
         }
-
-        int cnt1 = 0;
+        
+        cnt = 0;
         for(int i = 0; i < n; i++){
-            if(nums[i] == el){
-                cnt1++;
+            if(nums[i] == majorElement){
+                cnt++;
             }
         }
 
-        return (cnt1 > n / 2 ? el : -1);
+        if(cnt > (n / 2)){
+            return majorElement;
+        }
+        return -1;
     }
 };
