@@ -1110,6 +1110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakash811/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/aakash811/Leetcode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aakash811/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
+| [2087-confirmation-rate](https://github.com/aakash811/Leetcode-Solutions/tree/master/2087-confirmation-rate) |
 ## Probability and Statistics
 |  |
 | ------- |
