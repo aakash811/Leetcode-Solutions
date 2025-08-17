@@ -1106,6 +1106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0577-employee-bonus](https://github.com/aakash811/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aakash811/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [1153-product-sales-analysis-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/1153-product-sales-analysis-i) |
+| [1415-students-and-examinations](https://github.com/aakash811/Leetcode-Solutions/tree/master/1415-students-and-examinations) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/aakash811/Leetcode-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1801-average-time-of-process-per-machine](https://github.com/aakash811/Leetcode-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1908-recyclable-and-low-fat-products](https://github.com/aakash811/Leetcode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
