@@ -484,6 +484,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0747-min-cost-climbing-stairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/aakash811/Leetcode-Solutions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
@@ -696,6 +697,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0368-largest-divisible-subset](https://github.com/aakash811/Leetcode-Solutions/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/aakash811/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -802,6 +804,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
@@ -1110,4 +1113,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
