@@ -1106,6 +1106,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0577-employee-bonus](https://github.com/aakash811/Leetcode-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/aakash811/Leetcode-Solutions/tree/master/0584-find-customer-referee) |
 | [0596-classes-with-at-least-5-students](https://github.com/aakash811/Leetcode-Solutions/tree/master/0596-classes-with-at-least-5-students) |
+| [0610-triangle-judgement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/aakash811/Leetcode-Solutions/tree/master/0620-not-boring-movies) |
 | [1135-customers-who-bought-all-products](https://github.com/aakash811/Leetcode-Solutions/tree/master/1135-customers-who-bought-all-products) |
