@@ -323,6 +323,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1646-kth-missing-positive-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -495,6 +496,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1250-longest-common-subsequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aakash811/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -536,6 +538,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aakash811/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/aakash811/Leetcode-Solutions/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2227-sum-of-subarray-ranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -551,6 +554,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0937-online-stock-span](https://github.com/aakash811/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2227-sum-of-subarray-ranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 ## Tree
 |  |
@@ -957,6 +961,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
