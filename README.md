@@ -283,6 +283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0493-reverse-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/aakash811/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
@@ -794,6 +795,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/aakash811/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -956,6 +958,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/aakash811/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/aakash811/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/aakash811/Leetcode-Solutions/tree/master/0733-flood-fill) |
 | [0945-snakes-and-ladders](https://github.com/aakash811/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
