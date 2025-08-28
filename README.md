@@ -135,6 +135,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0205-isomorphic-strings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0402-remove-k-digits](https://github.com/aakash811/Leetcode-Solutions/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/aakash811/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -586,6 +587,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -620,6 +622,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aakash811/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -649,6 +652,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0130-surrounded-regions](https://github.com/aakash811/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/aakash811/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0210-course-schedule-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/aakash811/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
@@ -688,6 +692,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aakash811/Leetcode-Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -857,6 +862,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0173-binary-search-tree-iterator](https://github.com/aakash811/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/aakash811/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0355-design-twitter](https://github.com/aakash811/Leetcode-Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
