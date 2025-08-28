@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<vector<int>> sortMatrix(vector<vector<int>>& grid) {
         int n = grid.size();
-        unordered_map<int, deque<int>>ump;
+        unordered_map<int, vector<int>>ump;
         
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
@@ -12,17 +12,17 @@ public:
 
         for(auto &it : ump){
             if(it.first < 0){
-                sort(it.second.begin(), it.second.end());
+                sort(it.second.rbegin(), it.second.rend());
             }
             else{
-                sort(it.second.rbegin(), it.second.rend());
+                sort(it.second.begin(), it.second.end());
             }
         }
 
         for(int i = 0; i < n; i++){
             for(int j = 0; j < n; j++){
-                grid[i][j] = ump[i - j].front();
-                ump[i - j].pop_front();
+                grid[i][j] = ump[i - j].back();
+                ump[i - j].pop_back();
             }
         }
 
