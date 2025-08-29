@@ -29,7 +29,7 @@ public:
         int n = word1.size();
         int m = word2.size();
 
-        vector<vector<int>>dp(n + 1, vector<int>(m + 1, -1));
+        vector<vector<int>>dp(n, vector<int>(m, -1));
         return solve(dp, word1, word2, n - 1, m - 1);
     }
 };
