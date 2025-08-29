@@ -133,6 +133,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0139-word-break](https://github.com/aakash811/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/aakash811/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/aakash811/Leetcode-Solutions/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -1131,10 +1132,12 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Brainteaser
 |  |
@@ -1174,4 +1177,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0826-soup-servings](https://github.com/aakash811/Leetcode-Solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
