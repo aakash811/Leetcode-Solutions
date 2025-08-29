@@ -1,27 +1,20 @@
 class Solution {
 public:
-    int minInsertions(string s) {
-        int n = s.size();
-        vector<vector<int>>dp(n, vector<int>(n, 0));
-
-        for(int i = n - 1; i >= 0; i--){
-            dp[i][i] = 1;
-            for(int j = i + 1; j < n; j++){
-                if(s[i] == s[j]){
-                    dp[i][j] = 2 + dp[i + 1][j - 1];
-                }
-                else{
-                    dp[i][j] = max(dp[i + 1][j], dp[i][j - 1]);
-                }
-            }
+    int solve(vector<vector<int>>& dp, string &s, int i, int j){
+        if(i >= j){
+            return 0;
         }
 
-        // for(auto it : dp){
-        //     for(auto jt : it){
-        //         cout<<jt<<" ";
-        //     }
-        //     cout<<endl;
-        // }
-        return n - dp[0][n - 1];
+        if(dp[i][j] != -1){
+            return dp[i][j];
+        }
+
+        return dp[i][j] = s[i] == s[j] ? solve(dp, s, i + 1, j - 1) : 1 + min(solve(dp, s, i + 1, j), solve(dp, s, i, j - 1));
+    }
+
+    int minInsertions(string s) {
+        int n = s.size();
+        vector<vector<int>>dp(n, vector<int>(n, -1));
+        return solve(dp, s, 0, n - 1);
     }
 };
