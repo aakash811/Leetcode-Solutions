@@ -148,6 +148,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0768-partition-labels](https://github.com/aakash811/Leetcode-Solutions/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/aakash811/Leetcode-Solutions/tree/master/0868-push-dominoes) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aakash811/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1078-remove-outermost-parentheses](https://github.com/aakash811/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1170-shortest-common-supersequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
@@ -196,6 +197,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aakash811/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -551,6 +553,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
 | [0937-online-stock-span](https://github.com/aakash811/Leetcode-Solutions/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/aakash811/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/aakash811/Leetcode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/aakash811/Leetcode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
