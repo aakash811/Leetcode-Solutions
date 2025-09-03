@@ -392,6 +392,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3194-find-words-containing-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -450,6 +451,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2689-rearranging-fruits](https://github.com/aakash811/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aakash811/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -758,6 +760,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2998-count-symmetric-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -820,6 +823,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -1199,4 +1203,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/0214-shortest-palindrome) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
