@@ -22,11 +22,12 @@ public:
 
         return max(lMax, rMax) + root->val;
     }
-
+    
     int maxPathSum(TreeNode* root) {
         if(!root){
             return 0;
         }
+
         int maxi = root->val;
         solve(root, maxi, 0);
         return maxi;
