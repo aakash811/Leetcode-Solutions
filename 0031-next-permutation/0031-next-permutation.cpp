@@ -12,9 +12,9 @@ public:
                 flag = true;
                 int j = n - 1;
                 while(nums[j] <= nums[i - 1]){
-                    j--;
-                }
-                swap(nums[j], nums[i - 1]);
+                        j--;
+                    }
+                swap(nums[i - 1], nums[j]);
                 reverse(nums.begin() + i, nums.end());
                 break;
             }
