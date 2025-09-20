@@ -9,11 +9,12 @@ public:
             if(nums[i] == 1){
                 cnt++;
             }
-            if(nums[i] == 0){
+            else{
                 cnt = 0;
             }
             maxLen = max(maxLen, cnt);
         }
+
         return maxLen;
     }
 };
