@@ -13,8 +13,8 @@ public:
             else if(nums[mid] == 1){
                 mid++;
             }
-            else{
-                swap(nums[mid], nums[hi]);
+            else {
+                swap(nums[hi], nums[mid]);
                 hi--;
             }
         }
