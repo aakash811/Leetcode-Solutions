@@ -87,6 +87,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakash811/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aakash811/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/aakash811/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Two Pointers
 |  |
 | ------- |
@@ -429,6 +430,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aakash811/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/aakash811/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Sorting
 |  |
 | ------- |
@@ -874,6 +876,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -922,6 +925,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2429-design-a-food-rating-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/aakash811/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/aakash811/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Data Stream
 |  |
 | ------- |
@@ -962,6 +966,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1123,6 +1128,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2429-design-a-food-rating-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/aakash811/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Number Theory
 |  |
 | ------- |
