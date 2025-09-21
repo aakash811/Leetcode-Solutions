@@ -10,7 +10,7 @@ public:
             if(nums[mid + 1] > nums[mid]){
                 lo = mid + 1;
             }
-            else if(mid != 0 && nums[mid - 1] > nums[mid]){
+            else if(mid != 0 && nums[mid] < nums[mid - 1]){
                 hi = mid - 1;
             }
             else{
