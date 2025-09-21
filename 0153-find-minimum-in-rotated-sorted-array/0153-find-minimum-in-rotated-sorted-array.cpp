@@ -7,15 +7,15 @@ public:
         while(nums[lo] > nums[hi]){
             int mid = lo + (hi - lo) / 2;
 
-            if(nums[mid] > nums[lo]){
+            if(nums[mid] >= nums[lo]){
                 lo = mid + 1;
             }
             else if(nums[mid] < nums[hi]){
                 hi = mid;
             }
-            else{
-                lo++;
-            }
+            // else{
+            //     lo++;
+            // }
         }
         return nums[lo];
     }
