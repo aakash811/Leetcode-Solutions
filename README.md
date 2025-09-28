@@ -218,6 +218,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/aakash811/Leetcode-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1018-largest-perimeter-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/aakash811/Leetcode-Solutions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1448-maximum-69-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -340,6 +341,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0945-snakes-and-ladders](https://github.com/aakash811/Leetcode-Solutions/tree/master/0945-snakes-and-ladders) |
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [1006-vowel-spellchecker](https://github.com/aakash811/Leetcode-Solutions/tree/master/1006-vowel-spellchecker) |
+| [1018-largest-perimeter-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1034-subarrays-with-k-different-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/1034-subarrays-with-k-different-integers) |
 | [1036-rotting-oranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -466,6 +468,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0621-task-scheduler](https://github.com/aakash811/Leetcode-Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0900-reordered-power-of-2](https://github.com/aakash811/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/aakash811/Leetcode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -777,6 +780,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/aakash811/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
