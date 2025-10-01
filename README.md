@@ -791,6 +791,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1448-maximum-69-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/aakash811/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1642-water-bottles](https://github.com/aakash811/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2050-count-good-numbers) |
@@ -884,6 +885,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/aakash811/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/aakash811/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2324-find-triangular-sum-of-an-array) |
