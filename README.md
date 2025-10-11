@@ -77,6 +77,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2689-rearranging-fruits](https://github.com/aakash811/Leetcode-Solutions/tree/master/2689-rearranging-fruits) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -126,6 +127,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aakash811/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
 | ------- |
@@ -429,6 +431,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aakash811/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -494,6 +497,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/aakash811/Leetcode-Solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
@@ -582,6 +586,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
@@ -1005,6 +1010,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 ## Prefix Sum
@@ -1045,6 +1051,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
