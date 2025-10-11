@@ -428,6 +428,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aakash811/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -1021,6 +1022,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2915-count-of-interesting-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aakash811/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3639-zero-array-transformation-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
