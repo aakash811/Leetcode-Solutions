@@ -96,6 +96,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/aakash811/Leetcode-Solutions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/aakash811/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Two Pointers
 |  |
 | ------- |
@@ -478,6 +479,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3797-design-spreadsheet](https://github.com/aakash811/Leetcode-Solutions/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Sorting
 |  |
 | ------- |
@@ -553,6 +555,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3678-design-task-manager](https://github.com/aakash811/Leetcode-Solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -746,6 +749,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aakash811/Leetcode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -780,6 +784,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1238,6 +1243,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3678-design-task-manager](https://github.com/aakash811/Leetcode-Solutions/tree/master/3678-design-task-manager) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Number Theory
 |  |
 | ------- |
@@ -1256,6 +1262,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/aakash811/Leetcode-Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1276,6 +1283,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
+| [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
 ## Topological Sort
 |  |
 | ------- |
