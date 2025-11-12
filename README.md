@@ -388,6 +388,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1580-shuffle-the-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
