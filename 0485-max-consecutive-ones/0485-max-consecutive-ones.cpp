@@ -10,11 +10,12 @@ public:
                 cnt++;
             }
             else{
+                maxLen = max(cnt, maxLen);
                 cnt = 0;
             }
-            maxLen = max(maxLen, cnt);
         }
 
+        maxLen = max(maxLen, cnt);
         return maxLen;
     }
 };
