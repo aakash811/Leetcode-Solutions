@@ -441,6 +441,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2529-range-product-queries-of-powers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2591-frog-jump-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/2591-frog-jump-ii) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aakash811/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/aakash811/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/aakash811/Leetcode-Solutions/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/aakash811/Leetcode-Solutions/tree/master/2681-put-marbles-in-bags) |
@@ -1107,6 +1108,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/aakash811/Leetcode-Solutions/tree/master/2618-maximize-the-minimum-powered-city) |
+| [2625-increment-submatrices-by-one](https://github.com/aakash811/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/aakash811/Leetcode-Solutions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -1183,6 +1185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aakash811/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/aakash811/Leetcode-Solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/aakash811/Leetcode-Solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
