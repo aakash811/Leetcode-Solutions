@@ -380,6 +380,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1260-shift-2d-grid](https://github.com/aakash811/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1293-three-consecutive-odds](https://github.com/aakash811/Leetcode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/aakash811/Leetcode-Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
@@ -973,6 +974,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0054-spiral-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/aakash811/Leetcode-Solutions/tree/master/0498-diagonal-traverse) |
 | [0735-asteroid-collision](https://github.com/aakash811/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/aakash811/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/aakash811/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/aakash811/Leetcode-Solutions/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2058-concatenation-of-array) |
@@ -1183,6 +1185,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1036-rotting-oranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/aakash811/Leetcode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
