@@ -467,6 +467,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aakash811/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -887,6 +888,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3548-find-the-count-of-good-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/aakash811/Leetcode-Solutions/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -933,6 +935,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2529-range-product-queries-of-powers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/aakash811/Leetcode-Solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
