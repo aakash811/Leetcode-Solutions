@@ -3,15 +3,15 @@ public:
     vector<int> twoSum(vector<int>& nums, int target) {
         int n = nums.size();
         unordered_map<int, int>ump;
-        int sum = 0;
 
         for(int i = 0; i < n; i++){
-            int complement = target - nums[i];
-            if(ump.find(complement) != ump.end()){
-                return {i, ump[complement]};
+            int comp = target - nums[i];
+            if(ump.find(comp) != ump.end()){
+                return {i, ump[comp]};
             }
             ump[nums[i]] = i;
         }
-        return {};
+
+        return {0, 0};
     }
 };
