@@ -14,7 +14,7 @@ public:
         if(head == NULL || head->next == NULL){
             return head;
         }
-        
+
         ListNode* curr = head->next;
         ListNode* prev = head;
 
@@ -26,9 +26,7 @@ public:
             }
             else{
                 prev->next = NULL;
-                ListNode* temp = curr;
                 curr = curr->next;
-                temp->next = NULL;
             }
         }
 
