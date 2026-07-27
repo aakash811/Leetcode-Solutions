@@ -1,17 +1,14 @@
 class Solution {
 public:
-    int squaringDigits(int n){
-        vector<int>digs;
-        while(n != 0){
-            digs.push_back(n % 10);
+    int squareDigits(int n){
+        int res = 0;
+        while(n > 0){
+            int digit = n % 10;
             n /= 10;
+            res += digit * digit;
         }
 
-        int sqr = 0;
-        for(int i = 0; i < digs.size(); i++){
-            sqr += digs[i] * digs[i];
-        }
-        return sqr;
+        return res;
     }
 
     bool isHappy(int n) {
@@ -19,15 +16,15 @@ public:
         int fast = n;
 
         while(true){
-            slow = squaringDigits(slow);
-            fast = squaringDigits(squaringDigits(fast));
+            slow = squareDigits(slow);
+            fast = squareDigits(squareDigits(fast));
 
             if(fast == 1){
                 return true;
             }
-            
+
             if(fast == slow){
-                break;
+                return false;
             }
         }
 
