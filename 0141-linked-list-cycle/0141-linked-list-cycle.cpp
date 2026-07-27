@@ -12,21 +12,19 @@ public:
         if(head == NULL || head->next == NULL){
             return false;
         }
-        if(head->next == head){
-            return true;
-        }
 
-        ListNode* slow;
-        ListNode* fast;
+        ListNode *fast = head;
+        ListNode *slow = head;
 
         while(fast != NULL && fast->next != NULL){
-            slow = slow->next;
             fast = fast->next->next;
+            slow = slow->next;
 
-            if(slow == fast){
+            if(fast == slow){
                 return true;
             }
         }
+
         return false;
     }
 };
