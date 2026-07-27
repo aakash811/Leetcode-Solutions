@@ -11,37 +11,59 @@
 class Solution {
 public:
     bool isPalindrome(ListNode* head) {
-        if(head == NULL || head->next == NULL){
-            return true;
-        }
+        ListNode *fast = head;
+        ListNode *slow = head;
 
-        ListNode* slow = head;
-        ListNode* fast = head;
-
-        while(fast && fast->next){
+        while(fast != NULL && fast->next != NULL){
             slow = slow->next;
             fast = fast->next->next;
         }
 
-        ListNode* prevNode = NULL;
-        while(slow){
-            ListNode* nextNode = slow->next;
-            slow->next = prevNode;
-            prevNode = slow;
-            slow = nextNode;
-
+        if(fast == NULL){
+            ListNode* tempFast = slow;
+            while(tempFast->next != NULL){
+                tempFast = tempFast->next;
+            } 
+            fast = tempFast;
+            
+            ListNode* tempSlow1 = head;
+            while(tempSlow1->next != slow){
+                tempSlow1 = tempSlow1->next;
+            }
+            tempSlow1->next = NULL;
         }
 
-        ListNode* lft = head;
-        ListNode* rght = prevNode;
+        ListNode* rev = slow->next;
+        ListNode* prev = NULL;
 
-        while(lft != NULL && rght != NULL){
-            if(lft->val != rght->val){
+        while(slow != NULL){
+            slow->next = prev;
+            prev = slow;
+            slow = rev;
+            if(rev != NULL){
+                rev = rev->next;
+            }
+        }
+
+        // while(head != NULL){
+        //     cout<<"head-> "<<head->val<<endl;
+        //     head = head->next;
+        // }
+        // while(fast != NULL){
+        //     cout<<"fast-> "<<fast->val<<endl;
+        //     fast = fast->next;
+        // }
+
+        while(head != NULL && fast != NULL){
+            if(head->val != fast->val){
                 return false;
             }
-            lft = lft->next;
-            rght = rght->next;
+            else{
+                head = head->next;
+                fast = fast->next;
+            }
         }
+
         return true;
     }
 };
