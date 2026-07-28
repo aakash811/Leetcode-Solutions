@@ -217,6 +217,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aakash811/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3617-find-the-original-typed-string-i) |
 | [3618-find-the-original-typed-string-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3618-find-the-original-typed-string-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -560,6 +561,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/aakash811/Leetcode-Solutions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3647-zero-array-transformation-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3647-zero-array-transformation-iii) |
@@ -1445,4 +1447,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/aakash811/Leetcode-Solutions/tree/master/1300-critical-connections-in-a-network) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
