@@ -24,14 +24,11 @@ public:
                     }
                     left++;
                 }
-                cout<<"zeroes-> "<<zeroes<<" ";
-                cout<<"ones-> "<<ones<<endl;
             }
             maxLen = max(maxLen, right - left + 1);
-            cout<<"maxLen-> "<<maxLen<<endl;
             right++;
         }
-        
+
         return maxLen;
     }
 };
