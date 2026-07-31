@@ -1,38 +1,53 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        int n = s.size(), m = t.size();
-        if(n == 0 || m == 0 || n < m){
+        int n = s.size();
+        int m = t.size();
+
+        if(n < m){
             return "";
         }
-        
-        int lft = 0, rght = 0, cnt = m, st = 0;
-        int minLen = INT_MAX;
-        vector<int>map(128, 0);
 
+        unordered_map<char, int>ump;
         for(int i = 0; i < m; i++){
-            map[t[i]]++;
+            ump[t[i]]++;
         }
 
-        while(rght < n){
-            if(map[s[rght]]-- > 0){
-                cnt--;
-            }
+        int remChar = m;
+        int right = 0;
+        int left = 0;
+        int minLen = INT_MAX;
+        int start = 0;
+        int end = INT_MAX;
 
-            while(cnt == 0){
-                if(rght - lft + 1 < minLen){
-                    st = lft;
-                    minLen = rght - lft + 1;
-                }
+        while(right < n){
+            if(ump.find(s[right]) != ump.end() && ump[s[right]] > 0){
+                remChar--;
+            } 
+            ump[s[right]]--;
 
-                if(map[s[lft]]++ == 0){
-                    cnt++;
+            if(remChar == 0){
+               while(true){
+                if(ump.find(s[left]) != ump.end() && ump[s[left]] == 0){
+                    break;
                 }
-                lft++;
+                ump[s[left]]++;
+                left++;
+               }
+
+               if(right - left + 1 < minLen){
+                start = left;
+                end = right;
+                minLen = right - left + 1;
+               }
+
+               ump[s[left]]++;
+               remChar++;
+               left++;
             }
-            rght++;
+            right++;
         }
 
-        return minLen == INT_MAX ? "" : s.substr(st, minLen);
+        return end == INT_MAX ? "" : s.substr(start, minLen);
     }
 };
