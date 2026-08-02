@@ -2,7 +2,7 @@ class Solution {
 public:
     int maximumSum(vector<int>& arr) {
         int n = arr.size();
-        
+
         int maxNoDel = arr[0];
         int maxOneDel = arr[0];
         int maxSum = arr[0];
