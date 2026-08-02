@@ -432,6 +432,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1646-kth-missing-positive-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1656-count-good-triplets) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/aakash811/Leetcode-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -666,6 +667,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/aakash811/Leetcode-Solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/aakash811/Leetcode-Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
