@@ -393,6 +393,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0794-swim-in-rising-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
 | [0797-rabbits-in-forest](https://github.com/aakash811/Leetcode-Solutions/tree/master/0797-rabbits-in-forest) |
 | [0830-largest-triangle-area](https://github.com/aakash811/Leetcode-Solutions/tree/master/0830-largest-triangle-area) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0876-hand-of-straights](https://github.com/aakash811/Leetcode-Solutions/tree/master/0876-hand-of-straights) |
 | [0877-stone-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/aakash811/Leetcode-Solutions/tree/master/0890-lemonade-change) |
@@ -602,6 +603,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0744-network-delay-time](https://github.com/aakash811/Leetcode-Solutions/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/aakash811/Leetcode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1753-path-with-minimum-effort](https://github.com/aakash811/Leetcode-Solutions/tree/master/1753-path-with-minimum-effort) |
@@ -1062,6 +1064,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aakash811/Leetcode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1077,6 +1080,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0424-longest-repeating-character-replacement](https://github.com/aakash811/Leetcode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0867-new-21-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0867-new-21-game) |
 | [0904-fruit-into-baskets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0940-fruit-into-baskets](https://github.com/aakash811/Leetcode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -1106,6 +1110,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0918-maximum-sum-circular-subarray](https://github.com/aakash811/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/aakash811/Leetcode-Solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1150,6 +1155,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0611-valid-triangle-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/aakash811/Leetcode-Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/aakash811/Leetcode-Solutions/tree/master/0794-swim-in-rising-water) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/aakash811/Leetcode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
@@ -1184,6 +1190,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0525-contiguous-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/aakash811/Leetcode-Solutions/tree/master/0724-find-pivot-index) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/aakash811/Leetcode-Solutions/tree/master/0966-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
