@@ -151,6 +151,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/aakash811/Leetcode-Solutions/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## String
 |  |
@@ -223,6 +224,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3396-valid-word](https://github.com/aakash811/Leetcode-Solutions/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aakash811/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -287,6 +289,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/aakash811/Leetcode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aakash811/Leetcode-Solutions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/aakash811/Leetcode-Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/aakash811/Leetcode-Solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -695,6 +698,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aakash811/Leetcode-Solutions/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/aakash811/Leetcode-Solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/aakash811/Leetcode-Solutions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
