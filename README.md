@@ -421,6 +421,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aakash811/Leetcode-Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/aakash811/Leetcode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/aakash811/Leetcode-Solutions/tree/master/1073-number-of-enclaves) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/aakash811/Leetcode-Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aakash811/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -675,6 +676,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0934-bitwise-ors-of-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0943-sum-of-subarray-minimums](https://github.com/aakash811/Leetcode-Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1170-shortest-common-supersequence](https://github.com/aakash811/Leetcode-Solutions/tree/master/1170-shortest-common-supersequence) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/aakash811/Leetcode-Solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1236-n-th-tribonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
@@ -931,6 +933,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0900-reordered-power-of-2](https://github.com/aakash811/Leetcode-Solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/aakash811/Leetcode-Solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1236-n-th-tribonacci-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -1209,6 +1212,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0974-subarray-sums-divisible-by-k](https://github.com/aakash811/Leetcode-Solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/aakash811/Leetcode-Solutions/tree/master/1370-count-number-of-nice-subarrays) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/aakash811/Leetcode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -1526,13 +1530,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0486-predict-the-winner](https://github.com/aakash811/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
