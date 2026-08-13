@@ -216,6 +216,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2079-delete-duplicate-folders-in-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/aakash811/Leetcode-Solutions/tree/master/2140-longest-subsequence-repeated-k-times) |
 | [2209-minimum-white-tiles-after-covering-with-carpets](https://github.com/aakash811/Leetcode-Solutions/tree/master/2209-minimum-white-tiles-after-covering-with-carpets) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/aakash811/Leetcode-Solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/aakash811/Leetcode-Solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/aakash811/Leetcode-Solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -465,6 +466,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [2169-simple-bank-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2169-simple-bank-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/aakash811/Leetcode-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/aakash811/Leetcode-Solutions/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-finding-3-digit-even-numbers](https://github.com/aakash811/Leetcode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/aakash811/Leetcode-Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/aakash811/Leetcode-Solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -1377,6 +1379,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/aakash811/Leetcode-Solutions/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3791-fruits-into-baskets-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/3791-fruits-into-baskets-iii) |
@@ -1391,6 +1394,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0493-reverse-pairs](https://github.com/aakash811/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0931-maximum-frequency-stack](https://github.com/aakash811/Leetcode-Solutions/tree/master/0931-maximum-frequency-stack) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/aakash811/Leetcode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2280-count-good-triplets-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/2280-count-good-triplets-in-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/aakash811/Leetcode-Solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/aakash811/Leetcode-Solutions/tree/master/3678-design-task-manager) |
