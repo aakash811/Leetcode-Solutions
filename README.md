@@ -444,6 +444,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/aakash811/Leetcode-Solutions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/aakash811/Leetcode-Solutions/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1563-stone-game-v](https://github.com/aakash811/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1580-shuffle-the-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/aakash811/Leetcode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/aakash811/Leetcode-Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -693,6 +694,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1402-count-square-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1406-stone-game-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/aakash811/Leetcode-Solutions/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1563-stone-game-v](https://github.com/aakash811/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1628-count-submatrices-with-all-ones](https://github.com/aakash811/Leetcode-Solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/aakash811/Leetcode-Solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -953,6 +955,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [1448-maximum-69-number](https://github.com/aakash811/Leetcode-Solutions/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/aakash811/Leetcode-Solutions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/aakash811/Leetcode-Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [1563-stone-game-v](https://github.com/aakash811/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1642-water-bottles](https://github.com/aakash811/Leetcode-Solutions/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/aakash811/Leetcode-Solutions/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/aakash811/Leetcode-Solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1545,6 +1548,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0877-stone-game](https://github.com/aakash811/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aakash811/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/aakash811/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
