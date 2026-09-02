@@ -554,6 +554,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3827-implement-router](https://github.com/aakash811/Leetcode-Solutions/tree/master/3827-implement-router) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/aakash811/Leetcode-Solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/aakash811/Leetcode-Solutions/tree/master/3863-power-grid-maintenance) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -991,6 +992,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/aakash811/Leetcode-Solutions/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/aakash811/Leetcode-Solutions/tree/master/3830-find-closest-person) |
+| [3875-construct-uniform-parity-array-i](https://github.com/aakash811/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Backtracking
 |  |
 | ------- |
